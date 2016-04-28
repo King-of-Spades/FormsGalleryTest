@@ -1,0 +1,8 @@
+﻿<Properties StartupItem="FormsGallery/FormsGallery.iOS/FormsGallery.iOS.csproj">
+  <DisabledProjects>
+    <String>FormsGallery.UWP/FormsGallery.UWP.csproj</String>
+    <String>FormsGallery/FormsGallery.Windows/FormsGallery.Windows.csproj</String>
+    <String>FormsGallery/FormsGallery.WinPhone/FormsGallery.WinPhone.csproj</String>
+    <String>FormsGallery/FormsGallery.WinPhone81/FormsGallery.WinPhone81.csproj</String>
+  </DisabledProjects>
+</Properties>

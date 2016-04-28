@@ -1,0 +1,16 @@
+
+*.cache
+
+*.dll
+
+*.nupkg
+
+*.targets
+
+*.pdb
+
+*.pri
+
+*.exe
+
+/packages
